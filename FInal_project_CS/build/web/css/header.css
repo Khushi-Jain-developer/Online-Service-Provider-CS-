@@ -1,0 +1,43 @@
+body .admin_header {
+    margin:0;
+    padding:0;
+    font-family:verdana,san-serif,Geneva;
+    font-size:15px;
+}
+header {
+    height:100px;
+    position:fixed;
+    background:#505050;
+    width:100%;
+    top:0;
+}
+.logo {
+    float:left;
+    margin-left:10%;
+}
+.logo a {
+    color:#f20000;
+    font-size:30px;
+    margin-top:25px;
+    display:block;
+    text-decoration:none;
+}
+.menu {
+    float:right;
+    margin-right:10%;
+    margin-top:35px;
+}
+.menu ul {
+    margin:0px;
+    padding:0px;
+    list-style:none;
+}
+.menu ul li {
+    float:left;
+}
+.menu ul li a {
+    color:#fff;
+    text-decoration:none;
+    margin-left:10px;
+    margin-right:10px;
+}
